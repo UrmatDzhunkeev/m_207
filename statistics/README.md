@@ -1,1 +1,1 @@
-This section contains datasets for mid-term of SML.
+This section contains `Human Development Index` datasets.
